@@ -3,6 +3,8 @@
     <ul>
       <country-list-item v-for="(country, index) in countries" :country="country" :key="index"/>
     </ul>
+
+
   </div>
 </template>
 

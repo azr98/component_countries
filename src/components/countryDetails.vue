@@ -2,7 +2,7 @@
   <div v-if="country">
     <p>Name: {{country.name}}</p>
     <p>Capital: {{country.capital}}</p>
-    <p>Population{{country.population}}</p>
+    <p>Population: {{country.population}}</p>
   </div>
 </template>
 
